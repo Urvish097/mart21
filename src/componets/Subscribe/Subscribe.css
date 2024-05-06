@@ -1,0 +1,32 @@
+.section_10 .Subscribe_main {
+    background-image: url("../images/Subscribe.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 30px;
+    height: 300px;
+    margin-top: 70px;
+    margin-bottom: 100px;
+}
+
+.section_10 .Subscribe_text {
+    /* max-width: 27%; */
+    font-size: 47px;
+    /* margin-left: 100px; */
+}
+
+.section_10 input::placeholder {
+    color: #ABABAB;
+    font-family: roboto;
+}
+.section_10 input{
+    width: 300px;
+    height: 70px;
+}
+.section_10 .Subscribe_btn{
+    background-color: #274C5B;
+    font-family: roboto;
+    font-weight: 600;
+    padding: 24px 40px 10px 40px;
+    display: flex;
+    padding-bottom: 20px;
+}

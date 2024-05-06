@@ -1,0 +1,35 @@
+.section_9 .card_1 {
+    border-radius: 30px;
+    padding: 10px;
+}
+.section_9 .card_main_2 {
+    position: relative;
+}
+.section_9 .date {
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+    background-color: white;
+    position: absolute;
+    top: 7%;
+    left: 7%;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.section_9 .date_2 {
+    max-width: 50%;
+}
+.section_9 .card_text {
+    padding: 50px;    
+    background-color: white;
+    border-radius: 25px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    width: 550px;
+    position: absolute;
+    top: 55%;
+    left: 7%;
+}
+.section_9 .dummy_text{
+    max-width: 80%;
+}

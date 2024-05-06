@@ -1,0 +1,29 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.shop_sec_1 .bg_img{
+    background-image: url("../../images/Background\ Patterns.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    z-index: 99;
+}
+.shop_sec_1 .banner{
+    position: relative;
+    z-index: -1;
+}
+.shop_sec_1 .main{
+    position: relative;
+}
+.shop_sec_1 .heading{
+    position: absolute;
+    top: 40%;
+    left: 45%;
+}
+
+/* **********shop-3******** */
+
+.shop_sec_2 {
+    padding: 100px 0px;
+}

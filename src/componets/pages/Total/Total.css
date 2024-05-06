@@ -1,0 +1,14 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.total_sec_1 {
+    padding: 100px 0px;
+}
+
+.total_sec_1 .total_input {
+    width: 50px;
+    text-align: center;
+}

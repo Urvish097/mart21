@@ -1,0 +1,24 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.error_sec_1{
+    padding-bottom: 100px;
+}
+.error_sec_1 .error_bg{
+    background-image: url("../../../images/errror_banner.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.error_sec_1 .page{
+    font-size: 60px;
+}
+.error_sec_1 .exist{
+    color: #525C60;
+    font-weight: 600;
+    font-family: Open Sans;
+}
+.error_sec_1 .main{
+    padding: 140px 0px;
+}

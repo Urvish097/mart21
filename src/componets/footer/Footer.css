@@ -1,0 +1,43 @@
+.email_1 {
+    font-weight: 600;
+}
+.addres {
+    font-weight: 600;
+}
+.main_footer {
+    border-right: 1px solid #D4D4D4;
+    text-align: end;
+}
+.footer_inner{
+    margin-right: 50px;
+}
+.footer_img{
+    height: 53px;
+    width: 36px;
+}
+.dummy_text1{
+    color: #525C60;
+    font-weight: 400;
+    font-family: Open Sans;
+    text-align: center;
+}
+.insta_logo_main{
+    width: 50px;
+    height: 50px;
+    background-color: #EFF6F1;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.color_footer a{
+    color: #525C60;
+    font-weight: 400;
+    text-decoration: none;
+}
+.left_main{
+    border-left: 1px solid #D4D4D4;
+}
+.left_inner{
+    margin-left: 40px;
+}
